@@ -1,5 +1,5 @@
-#ifndef TAMA_MEMORY_H
-#define TAMA_MEMORY_H
+#ifndef MEOW_BASIC_MEMORY_H
+#define MEOW_BASIC_MEMORY_H
 
 #include "common.h"
 

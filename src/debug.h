@@ -1,5 +1,5 @@
-#ifndef TAMA_DEBUG_H
-#define TAMA_DEBUG_H
+#ifndef MEOW_BASIC_DEBUG_H
+#define MEOW_BASIC_DEBUG_H
 
 #include "chunk.h"
 

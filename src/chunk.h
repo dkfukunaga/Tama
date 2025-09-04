@@ -1,5 +1,5 @@
-#ifndef TAMA_CHUNK_H
-#define TAMA_CHUNK_H
+#ifndef MEOW_BASIC_CHUNK_H
+#define MEOW_BASIC_CHUNK_H
 
 #include "common.h"
 #include "value.h"

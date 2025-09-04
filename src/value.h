@@ -1,5 +1,5 @@
-#ifndef TAMA_VALUE_H
-#define TAMA_VALUE_H
+#ifndef MEOW_BASIC_VALUE_H
+#define MEOW_BASIC_VALUE_H
 
 #include "common.h"
 
